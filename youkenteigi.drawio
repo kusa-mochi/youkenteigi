@@ -1,41 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T00:19:24.932Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="7mIyJSqvKGHqvh9Jw_CP" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T00:38:28.331Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EjJtlxEIRvD8QBiu_h-k" version="16.1.4" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
     <mxGraphModel dx="1366" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-1" value="解決したい課題" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-1" value="解決したい課題" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-2" value="目標" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-2" value="目標" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-3" value="非機能要件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-3" value="非機能要件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-4" value="システム全体構成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-4" value="システム全体構成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="365" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-5" value="予算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-5" value="予算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="305" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-6" value="スケジュール" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-6" value="スケジュール" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-7" value="プロジェクトメンバー" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-7" value="プロジェクトメンバー" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-8" value="コミュニケーション方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-8" value="コミュニケーション方法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-9" value="機能要件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-9" value="機能要件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-10" value="要件定義書" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-10" value="要件定義書" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="340" width="120" height="80" as="geometry" />
+        <mxCell id="P1Ovsf2lWP4x-rWWKJyM-11" value="step 1" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jR0Z3sZYs93AXY7LHps6-1" value="step 2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jR0Z3sZYs93AXY7LHps6-2" value="step 3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jR0Z3sZYs93AXY7LHps6-3" value="step 4" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="355" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jR0Z3sZYs93AXY7LHps6-4" value="step 5" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="355" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jR0Z3sZYs93AXY7LHps6-5" value="step 6" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="680" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
